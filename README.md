@@ -1,6 +1,6 @@
 # LITERALURA CHALLENGE - Alura ONE
 
-## 📋 SOBRE O CÓDIGO:
+## SOBRE O CÓDIGO 📋:
 Desenvolvimento do código feito com base nos critérios do Challenge LiterAlura, do curso ONE. Utilizando Java, Spring Boot 3, JPA, MySQL, etc. o desafio consistia em utilizar a API Gutendex para realização de consultas na API, persistência e consulta dos dados no Postgre.
 
 ## FUNCIONALIDADES ✅:
